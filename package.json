@@ -1,4 +1,22 @@
 {
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Symera-Studio/MyStatus-Backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Symera-Studio/MyStatus-Backend/issues"
+  },
+  "homepage": "https://github.com/Symera-Studio/MyStatus-Backend#readme",
   "dependencies": {
     "@types/express": "^4.17.14",
     "@types/node": "^18.7.23",
